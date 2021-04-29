@@ -1,0 +1,21 @@
+body{
+  background-color: #339c5a;
+
+  background-image:
+  url('https://i.imgur.com/iDNsAxY.png'),
+  url('https://i.imgur.com/iDNsAxY.png'),
+  url('https://i.imgur.com/iDNsAxY.png'),
+  url('https://i.imgur.com/iDNsAxY.png'),
+  url('https://i.imgur.com/iDNsAxY.png');
+
+  background-repeat: no-repeat;
+
+  background-position:
+  1100px 650px,
+  300px 400px,
+  400px 600px,
+  900px 200px,
+  500px 500px;
+
+  background-size: auto;
+}
